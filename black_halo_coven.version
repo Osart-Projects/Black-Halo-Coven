@@ -1,0 +1,11 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/Osart-Projects/Black-Halo-Coven/main/black_halo_coven.version",
+  "modName": "Black Halo Coven",
+  "modVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": 3
+  },
+  "starsectorVersion": "0.98a-RC8",
+  "directDownloadURL": "https://drive.google.com/uc?id=15hmr2Y0520mcyPSY9yhCzDfH9sOHapyT&export=download"
+}
