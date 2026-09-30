@@ -1,0 +1,35 @@
+Version 1.0.4
+
+- Completely reworked the Acolyte, including a new sprite and redesigned hull layout.
+- Added the Pilgrim Heavy Fighter.
+- Added the Missionary Torpedo Bomber.
+- Added the Halo Missile family: Halo Missile (Single), Halo Missile Rack, and Halo SRM Pod.
+- Added the Black Halo Coven Blueprint Package.
+- Added Version Checker support.
+- Added Black Halo Coven faction music to fleet encounters.
+- Increased all Luminarch base values to 45,000 credits.
+- Increased the Ascendant base value to 270,000 credits.
+- Fixed the Acolyte Vanguard variant registration.
+- Removed Hammer torpedoes from Black Halo Coven faction weapon access and selection.
+
+Version 1.0.3
+
+- Updated ship naming.
+- Added additional maneuvering thrusters to Seraph and Acolyte.
+- Rebalanced Ascendant OP.
+- Adjusted Ascendant weapon slots and firing arcs.
+
+Version 1.0.2
+
+- Added 10 custom bounties.
+- Added an additional variant for each ship.
+- Updated the Aris Pattern Luminarch sprite.
+- Updated the Cherub sprite.
+- Added multiple new descriptions.
+- Added 160 new character portraits.
+
+Version 1.0.1
+
+- Updated Archangel graphics and layout.
+- Updated Seraph graphics and layout.
+- Luminarch now features 3 distinct variants.
