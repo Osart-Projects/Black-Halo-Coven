@@ -5,9 +5,9 @@
   "modVersion": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "starsectorVersion": "0.98a-RC8",
-  "directDownloadURL": "https://github.com/Osart-Projects/Black-Halo-Coven/releases/download/v1.0.4/Black-Halo-Coven.zip",
+  "directDownloadURL": "https://github.com/Osart-Projects/Black-Halo-Coven/releases/latest/download/Black-Halo-Coven.zip",
   "changelogURL": "https://raw.githubusercontent.com/Osart-Projects/Black-Halo-Coven/main/changelog.txt"
 }
