@@ -1,3 +1,12 @@
+Version 1.0.5
+
+- Added BHC Kite, Wolf, Mule and Apogee refits with custom sprites and faction variants.
+- Added Captain Raid Iant the Human's bounty.
+- Increased Pilgrim Heavy Fighter wing cost to 14 OP.
+- Rebalanced all ship variants to use their full OP budgets.
+- Fixed weapon slot compatibility on Radiant and Seraph variants.
+- Updated Halo Missile AI behavior.
+
 Version 1.0.4
 
 - Completely reworked the Acolyte, including a new sprite and redesigned hull layout.
