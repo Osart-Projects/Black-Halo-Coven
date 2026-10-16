@@ -1,3 +1,10 @@
+Version 1.0.6
+
+- Replaced the Acolyte sprite and updated its weapon slots and variants.
+- Added the Deacon destroyer with two combat variants.
+- Overhauled the Seraph.
+- Reworked faction starting systems and planetary layouts, conditions, and infrastructure.
+
 Version 1.0.5
 
 - Added BHC Kite, Wolf, Mule and Apogee refits with custom sprites and faction variants.
