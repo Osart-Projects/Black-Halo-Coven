@@ -1,3 +1,9 @@
+Version 1.0.7
+
+- Fixed the BHC Radiant hull, weapon slots, and loadout; increased shield coverage to 360 degrees.
+- Nerfed the Kirbo-pattern Luminarch: flux capacity reduced from 7,000 to 5,500.
+- Added Ascension Gate to the Empyrean star system.
+
 Version 1.0.6
 
 - Replaced the Acolyte sprite and updated its weapon slots and variants.
